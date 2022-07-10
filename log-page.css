@@ -1,0 +1,42 @@
+body{
+    background-color: #ffffff;
+    padding-top:80px;
+}
+/*.img-responsive{
+    width: 200px;
+    position: absolute;
+    top: 50px;
+    left:30px;
+    overflow:hidden;
+}
+*/
+.login-txt{
+    text-align: center;
+    color: rgb(158, 50, 50);
+}
+
+#btn-log-sign{
+    position: absolute;
+    left: 120px;
+    display: inline-flex;
+}
+.container-form-newuser{
+
+    width: 720px;
+    height:420px;
+    align-items: center;
+    position: absolute;
+    top: 160px;
+    left:21%;
+}
+.container-form-user{
+    width: 420px;
+    height:320px;
+    align-items: center;
+    position: absolute;
+    top: 160px;
+    left:35%;
+}
+#show-new-user-form{
+    display: none;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: #ffffff;
+    padding-top: 100px;
+    height: 1200px;
+}
+.img-responsive{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 50px;
+    left:30px;
+    overflow:hidden;
+}

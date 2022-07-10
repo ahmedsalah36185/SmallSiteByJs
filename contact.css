@@ -1,0 +1,31 @@
+body{
+    background-color: #ffffff;
+    padding-top: 100px;
+}
+.img-responsive{
+    height: 350px;
+    width: 200px;
+    position: absolute;
+    top: 50px;
+    left:30px;
+    overflow:hidden;
+}
+#card-dv{
+    width: 1349px;
+    height: 550px;
+    position:absolute;
+    top:45px;
+}
+#card-dv button{
+    color:rgb(75, 73, 73);
+    font-weight:bold;
+}
+#card-dv button:hover{
+    color:red;
+}
+#tx-emailus{
+    display:none;
+}
+#tx-addressus{
+    display:none;
+}

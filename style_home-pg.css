@@ -1,0 +1,32 @@
+#mybd{
+    padding-top: 100px;
+    overflow:initial;
+}
+.test{
+    height: 2000px;
+    margin-bottom: 2000px;
+    line-height:200px;
+    text-align: center;
+}
+/*.img-responsive{
+    width: 200px;
+    position: absolute;
+    top: 50px;
+    left:30px;
+    overflow:hidden;
+}*/
+.carousel-item{
+    height: 420px;
+    padding: 0px 0px 20px 0px;
+}
+.image-test{
+   width: 140px;
+   height:140px;
+}
+
+p{
+    color: rgb(190, 190, 190);
+    font-size:25px;
+    font-weight:bold;
+    cursor: pointer;
+}
